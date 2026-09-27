@@ -1,0 +1,34 @@
+1:"$Sreact.fragment"
+2:I[7121,[],""]
+3:I[4581,[],""]
+4:I[1304,[],"ClientPageRoot"]
+5:I[3714,["592","static/chunks/c15bf2b0-0b7ccb01d0221f08.js","546","static/chunks/546-9ee7b92bbccf9d36.js","974","static/chunks/app/page-a8b252868e3d3be1.js"],"default"]
+8:I[484,[],"OutletBoundary"]
+9:"$Sreact.suspense"
+b:I[484,[],"ViewportBoundary"]
+d:I[484,[],"MetadataBoundary"]
+f:I[7123,[],"default",1]
+:HL["/modtie/_next/static/media/0c9855d7ff907db2-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/19d2f295cc943c68-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/1ce8bc761c7de99c-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/25f7d470e08d7a87-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/63fcb54758c9b2bf-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/6a960fe5ea55ead3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/72646736d8050160-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/75717585c59e5075-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/8ad7e654cfb0a2c3-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/97631813e9c326ff-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/a5f02fb6311fcdbc-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/d16f76c549fa3877-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/e1fc1184cf147048-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/e5dbfb2d2860f45e-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/e947190c9bdf6068-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/media/f42c4a7e6e15f653-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/modtie/_next/static/css/ebe5d895ec766e51.css","style"]
+0:{"P":null,"c":["",""],"q":"","i":false,"f":[[["",{"children":["__PAGE__",{},"$undefined","$undefined",4608]},"$undefined","$undefined",4624],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/modtie/_next/static/css/ebe5d895ec766e51.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"th","className":"__variable_1a2667 antialiased","children":["$","body",null,{"className":"min-h-dvh overflow-x-hidden font-sans","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}]}]]}],{"children":[["$","$1","c",{"children":[["$","$L4",null,{"Component":"$5","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@6","$@7"]}}],null,["$","$L8",null,{"children":["$","$9",null,{"name":"Next.MetadataOutlet","children":"$@a"}]}]]}],{},null,false,null]},null,false,null],["$","$1","h",{"children":[null,["$","$Lb",null,{"children":"$Lc"}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$9",null,{"name":"Next.Metadata","children":"$Le"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$f",[]],"S":true,"h":null,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"5uXwNI2sG-4Q4McZjmR19"}
+6:{}
+7:"$0:f:0:1:1:children:0:props:children:0:props:serverProvidedParams:params"
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#1a0633"}]]
+10:I[6869,[],"IconMark"]
+a:null
+e:[["$","title","0",{"children":"ModTie"}],["$","meta","1",{"name":"description","content":"Phone on your forehead. Tilt down = correct, tilt up = pass. Works offline."}],["$","meta","2",{"name":"application-name","content":"ModTie"}],["$","link","3",{"rel":"manifest","href":"/modtie/manifest.webmanifest","crossOrigin":"$undefined"}],["$","meta","4",{"name":"mobile-web-app-capable","content":"yes"}],["$","meta","5",{"name":"apple-mobile-web-app-title","content":"ModTie"}],["$","meta","6",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link","7",{"rel":"icon","href":"/modtie/icon.svg?a580215e68505671","type":"image/svg+xml","sizes":"any"}],["$","link","8",{"rel":"apple-touch-icon","href":"/modtie/apple-icon.png?eaa9796f2b0ce20e","type":"image/png","sizes":"180x180"}],["$","$L10","9",{}]]
